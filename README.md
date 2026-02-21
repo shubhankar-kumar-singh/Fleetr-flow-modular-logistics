@@ -33,7 +33,7 @@ npm run dev
 
 After running the server, open the local development URL shown in your terminal.
 
-💻 Technologies Used
+ Technologies Used
 
 This project was built manually using:
 
@@ -47,7 +47,7 @@ shadcn-ui
 
 Tailwind CSS
 
-🚀 Deployment
+ Deployment
 
 The project can be deployed using any modern hosting platform such as:
 
