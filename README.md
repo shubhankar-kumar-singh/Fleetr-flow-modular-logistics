@@ -1,73 +1,60 @@
-# Welcome to your Lovable project
+Project Information
 
-## Project info
+This project was designed and developed manually as part of a hackathon submission.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+FleetFlow is a Modular Fleet & Logistics Management System built to optimize fleet lifecycle management, driver safety, and financial performance.
 
-## How can I edit this code?
+🛠 How to Edit and Run This Project Locally
 
-There are several ways of editing your application.
+This project was built using modern web technologies and can be edited using any preferred IDE.
 
-**Use Lovable**
+ Requirements
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Make sure you have the following installed:
 
-Changes made via Lovable will be committed automatically to this repo.
+Node.js
 
-**Use your preferred IDE**
+npm
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+Steps to Run the Project
+Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+Step 2: Navigate into the project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Step 4: Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+After running the server, open the local development URL shown in your terminal.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+💻 Technologies Used
 
-**Use GitHub Codespaces**
+This project was built manually using:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Vite
 
-## What technologies are used for this project?
+TypeScript
 
-This project is built with:
+React
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+shadcn-ui
 
-## How can I deploy this project?
+Tailwind CSS
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+🚀 Deployment
 
-## Can I connect a custom domain to my Lovable project?
+The project can be deployed using any modern hosting platform such as:
 
-Yes, you can!
+Vercel
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Netlify
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Render
+
+Simply connect the GitHub repository and follow the platform deployment steps.
